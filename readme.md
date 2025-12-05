@@ -13,7 +13,7 @@ Please use [`micromark-util-sanitize-uri`][micromark-util-sanitize-uri], which
 is a much better way to solve the same problems.
 
 Legacy [documentation for this
-package](https://github.com/drylikov/normalize_uri/tree/eb1d0d6)
+package](https://github.com/drylikov/Normalize_uri)
 is still available in Git.
 
 <!-- Definitions -->
