@@ -3,7 +3,7 @@
 
 
 
-# normalize-uri
+# Normalize-uri
 
 **Stability: Legacy**.
 This package is no longer recommended for use.
