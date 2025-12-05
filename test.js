@@ -1,6 +1,7 @@
 
 
 
+
 import test from 'tape'
 import {normalizeUri} from './index.js'
 
