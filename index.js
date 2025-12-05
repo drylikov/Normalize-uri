@@ -41,3 +41,4 @@ function normalize(value) {
 function identity(value) {
   return value
 }
+
