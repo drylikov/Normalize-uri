@@ -18,3 +18,4 @@ test('normalizeUri(value)', function (t) {
   t.end()
 })
 
+
